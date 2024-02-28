@@ -8,7 +8,6 @@ background-color:  #2a4165;
         border-spacing: 01px;
         text-align: center;
 
-    
     }
     table,
     th,
@@ -17,6 +16,10 @@ background-color:  #2a4165;
         border: 1px solid rgb(255, 255, 255);
         color: white;
         border-radius: 10px;
+        width: 84,33px;
+        height: 125,44px;
+        margin-left: 100px;
+        margin-top: 25px;
     }
 
     .cor{
@@ -102,17 +105,16 @@ background-color:  #2a4165;
 .fonte{
 
 font-family: 'Courier New', Courier, monospace;
-font-size: 30px;
+font-size: 300px;
 
 }
 
 .legenda{
 
 font-family: 'Courier New', Courier, monospace;
-font-size: 25px;
+font-size: 35px;
 margin-top: 70px;
 margin-left: 25px;
-font-style: italic;
 
 
 }
@@ -125,18 +127,107 @@ transform: scale(1.1);
 
 .alinhar{
 
-margin-left: 15px;
-margin-right: 15px;
-justify-content: space-around   ;
+justify-content: space-around;
 display:flex;
 font-family: 'Courier New', Courier, monospace;
-font-size: 30px;
-
+font-size: 20px;
+margin-left: -45px;
 }
 
-.cc{
+.vff{
 
-    width: 15px;
-    height: 15px;
-    background-color: #613b28
+width: 30px;
+height: 30px;
+background-color: #774450;
+margin-right: 15px;
+border-radius: 10px;
 }
+.vf{
+
+    width: 30px;
+    height: 30px;
+    background-color: #622e39;
+    margin-right: 15px;
+    border-radius: 10px;    
+}
+
+    .cv{
+
+        width: 30px;
+        height: 30px;
+        background-color: #2f4d47;
+        margin-right: 15px;
+        border-radius: 10px;    
+    }
+
+        .cc3{
+
+            width: 30px;
+            height: 30px;
+            background-color:  #433c65;
+            margin-right: 15px;
+            border-radius: 10px;    
+        }
+
+            .cc4{
+
+                width: 30px;
+                height: 30px;
+                background-color:  #2a4165;
+                margin-right: 15px;
+                border-radius: 10px;    
+            }
+
+                .c{
+
+                    width: 30px;
+                    height: 30px;
+                    background-color: #46474c;
+                    margin-right: 15px;
+                    border-radius: 10px;    
+                }
+
+                    .cc6{
+
+                        width: 30px;
+                        height: 30px;
+                        background-color: #244d57;
+                        margin-right: 15px;
+                        border-radius: 10px;    
+                    }
+                        .cc1{
+
+                            width: 30px;
+                            height: 30px;
+                            background-color: #523e1b;
+                            margin-right: 15px;
+                            border-radius: 10px;   
+                        }
+                            .cc2{
+
+                                width: 30px;
+                                height: 30px;
+                                background-color:#004a77;
+                                margin-right: 15px;
+                                border-radius: 10px;    
+                            }
+                                .cc5{
+
+                                    width: 30px;
+                                    height: 30px;
+                                    background-color: #613b28;
+                                    margin-right: 15px;   
+                                    border-radius: 10px;
+                                }
+                                    
+                                
+.b{
+
+display: flex;
+flex-direction: row;
+position: relative;
+justify-content: normal;
+align-items: center;
+}
+
+
