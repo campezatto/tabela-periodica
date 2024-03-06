@@ -1,3 +1,9 @@
+body{
+
+    background-image: linear-gradient(to bottom right,  rgb(53, 53, 53), rgb(0, 0, 0));
+
+}
+
 .fundo {
 
     background-color: #2a4165;
@@ -6,21 +12,21 @@
 
 table {
 
-    border-spacing: 01px;
+
     text-align: center;
     font-size: 25px;
+
 }
 
 table,
 th,
 td {
-    padding: 5px;
-    border: 1px solid rgb(255, 255, 255);
+    padding: 15px;
     color: white;
     border-radius: 20px;
     width: 84, 33px;
     height: 125, 44px;
-    margin-left: 100px;
+    margin-left: 325px;
     margin-top: 25px;
 }
 
@@ -117,7 +123,7 @@ tfoot {
     font-size: 35px;
     margin-top: 70px;
     margin-left: 25px;
-
+    color: whitesmoke;
 
 }
 
@@ -127,8 +133,7 @@ tfoot {
     display: flex;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    margin-left: -400px;
-    margin-right: 300px;
+
 }
 
 .metais {
@@ -242,7 +247,99 @@ tfoot {
 
     transform: scale(1.5);
     transition: 0.25s;
+    box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor10:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor11:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor12:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor13:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor9:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor8:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor7:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor6:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor5:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor4:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor3:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.cor2:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
+}
+
+.fundo:hover{
+
+transform: scale(1.5);
+transition: 0.25s;
+box-shadow: 5px 5px 5px 2px black;
 
 }
 
-
+.cor2:hover{ transform: scale(1.3);}
