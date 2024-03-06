@@ -1,233 +1,238 @@
-.fundo{
+.fundo {
 
-background-color:  #2a4165;
+    background-color: #2a4165;
 
 }
-    table {
-        border-collapse: collapse;
-        border-spacing: 01px;
-        text-align: center;
 
-    }
-    table,
-    th,
-    td {
-        padding: 5px;
-        border: 1px solid rgb(255, 255, 255);
-        color: white;
-        border-radius: 10px;
-        width: 84,33px;
-        height: 125,44px;
-        margin-left: 100px;
-        margin-top: 25px;
-    }
+table {
 
-    .cor{
+    border-spacing: 01px;
+    text-align: center;
+    font-size: 25px;
+}
 
-        color: #2a4165;
-    }
+table,
+th,
+td {
+    padding: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    border-radius: 10px;
+    width: 84, 33px;
+    height: 125, 44px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
 
-    .cor1{
+.cor {
 
-        color: #ffffff;
-    }
+    color: #2a4165;
+}
 
-    thead,
-    tfoot {
-        background-color: #2a4165;
-    }
-    
+.cor1 {
+
+    color: #ffffff;
+}
+
+thead,
+tfoot {
+    background-color: #2a4165;
+}
 
 
 
-    .cor2{
+
+.cor2 {
 
     background-color: #244d57;
 
-    }
+}
 
-    .cor3{
+.cor3 {
 
-        background-color: #622e39;
-        
-            }
+    background-color: #622e39;
 
-.cor4{
+}
+
+.cor4 {
 
     background-color: #004a77;
 }
 
-.cor5{
+.cor5 {
 
     background-color: #613b28;
 }
 
-.cor6{
+.cor6 {
 
     background-color: #433c65;
 }
 
-.cor7{
+.cor7 {
 
     background-color: #2f4d47;
 }
 
-.cor8{
+.cor8 {
 
     background-color: #46474c;
 }
 
-.cor9{
+.cor9 {
 
     background-color: #523e1b;
 }
 
-.cor10{
+.cor10 {
 
     background-color: #2a4165;
 }
 
-.cor11{
+.cor11 {
 
     background-color: #623842;
 }
 
-.cor12{
+.cor12 {
 
     background-color: #004a77;
 }
 
-.cor13{
+.cor13 {
 
     background-color: #613b28;
 }
 
-.fonte{
+.fonte {
 
-font-family: 'Courier New', Courier, monospace;
-font-size: 300px;
-
-}
-
-.legenda{
-
-font-family: 'Courier New', Courier, monospace;
-font-size: 35px;
-margin-top: 70px;
-margin-left: 25px;
-
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300px;
 
 }
 
-td:hover{
+.legenda {
 
-transform: scale(1.1);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    margin-top: 70px;
+    margin-left: 25px;
+
 
 }
 
-.alinhar{
+td:hover {
 
-justify-content: space-around;
-display:flex;
-font-family: 'Courier New', Courier, monospace;
-font-size: 20px;
-margin-left: -45px;
+    transform: scale(1.1);
+
 }
 
-.vff{
+.alinhar {
 
-width: 30px;
-height: 30px;
-background-color: #774450;
-margin-right: 15px;
-border-radius: 10px;
+    justify-content: space-around;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: -400px;
+    margin-right: 300px;
 }
-.vf{
+
+.metais {
+
+    width: 30px;
+    height: 30px;
+    background-color: #244d57 ;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.nobres {
+
+    width: 30px;
+    height: 30px;
+    background-color: #623842;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.desconhecidas {
+
+    width: 30px;
+    height: 30px;
+    background-color:#46474c ;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.alcalinoterrosos {
 
     width: 30px;
     height: 30px;
     background-color: #622e39;
     margin-right: 15px;
-    border-radius: 10px;    
+    border-radius: 10px;
 }
 
-    .cv{
+.Semimetais {
 
-        width: 30px;
-        height: 30px;
-        background-color: #2f4d47;
-        margin-right: 15px;
-        border-radius: 10px;    
-    }
+    width: 30px;
+    height: 30px;
+    background-color:#523e1b ;
+    margin-right: 15px;
+    border-radius: 10px;
+}
 
-        .cc3{
+.Lantanídeos {
 
-            width: 30px;
-            height: 30px;
-            background-color:  #433c65;
-            margin-right: 15px;
-            border-radius: 10px;    
-        }
+    width: 30px;
+    height: 30px;
+    background-color: #004a77 ;
+    margin-right: 15px;
+    border-radius: 10px;
+}
 
-            .cc4{
+.transição {
 
-                width: 30px;
-                height: 30px;
-                background-color:  #2a4165;
-                margin-right: 15px;
-                border-radius: 10px;    
-            }
+    width: 30px;
+    height: 30px;
+    background-color: #2f4d47;
+    margin-right: 15px;
+    border-radius: 10px;
+}
 
-                .c{
+.Ametais {
 
-                    width: 30px;
-                    height: 30px;
-                    background-color: #46474c;
-                    margin-right: 15px;
-                    border-radius: 10px;    
-                }
+    width: 30px;
+    height: 30px;
+    background-color: #2a4165 ;
+    margin-right: 15px;
+    border-radius: 10px;
+}
 
-                    .cc6{
+.actinideos{
 
-                        width: 30px;
-                        height: 30px;
-                        background-color: #244d57;
-                        margin-right: 15px;
-                        border-radius: 10px;    
-                    }
-                        .cc1{
+    width: 30px;
+    height: 30px;
+    background-color: #613b28;
+    margin-right: 15px;
+    border-radius: 10px;
+}
 
-                            width: 30px;
-                            height: 30px;
-                            background-color: #523e1b;
-                            margin-right: 15px;
-                            border-radius: 10px;   
-                        }
-                            .cc2{
+.alcalinos{
 
-                                width: 30px;
-                                height: 30px;
-                                background-color:#004a77;
-                                margin-right: 15px;
-                                border-radius: 10px;    
-                            }
-                                .cc5{
-
-                                    width: 30px;
-                                    height: 30px;
-                                    background-color: #613b28;
-                                    margin-right: 15px;   
-                                    border-radius: 10px;
-                                }
-                                    
-                                
-.b{
-
-display: flex;
-flex-direction: row;
-position: relative;
-justify-content: normal;
-align-items: center;
+    width: 30px;
+    height: 30px;
+    background-color: #244d57;
+    margin-right: 15px;
+    border-radius: 10px;
 }
 
 
+.b {
+
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: normal;
+    align-items: center;
+}
