@@ -17,7 +17,7 @@ td {
     padding: 5px;
     border: 1px solid rgb(255, 255, 255);
     color: white;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 84, 33px;
     height: 125, 44px;
     margin-left: 100px;
@@ -118,12 +118,6 @@ tfoot {
     margin-top: 70px;
     margin-left: 25px;
 
-
-}
-
-td:hover {
-
-    transform: scale(1.1);
 
 }
 
@@ -236,3 +230,19 @@ td:hover {
     justify-content: normal;
     align-items: center;
 }
+
+.b:hover {
+
+    transform: scale(1.5);
+    transition: 0.25s;
+
+}
+
+.alcalinos:hover {
+
+    transform: scale(1.5);
+    transition: 0.25s;
+
+}
+
+
